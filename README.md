@@ -52,17 +52,23 @@ The focus is on completing 160 quality problems to master Data Structures and Al
 <h2 align="center">📊 Progress Tracker</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-3_/_160-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Progress"/>
-  <img src="https://img.shields.io/badge/Progress-1.9%25-blue?style=for-the-badge" alt="Percentage"/>
+  <img src="https://img.shields.io/badge/Total_Solved-9_/_160-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-5.6%25-blue?style=for-the-badge" alt="Percentage"/>
 </p>
 
 <div align="center">
 
-| Day | Problem Name           | Difficulty |                          Solution                          |                                         GfG Link                                         | Status |
-| :-: | :--------------------- | :--------: | :--------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :----: |
-| 001 | Second Largest Element |  🟢 Easy   |   [📄 Solution](DAY%20001/Second%20Largest%20Element.py)   |         [🔗 Problem](https://www.geeksforgeeks.org/problems/second-largest3735)          |   ✅   |
-| 002 | Move All Zeroes to End |  🟢 Easy   | [📄 Solution](Day%20002/Move%20All%20Zeroes%20to%20End.py) | [🔗 Problem](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751) |   ✅   |
-| 003 | Reverse an Array       |  🟢 Easy   |      [📄 Solution](Day%20003/reverse%20an%20array.py)      |          [🔗 Problem](https://www.geeksforgeeks.org/problems/reverse-an-array)           |   ✅   |
+| Day | Problem Name                             | Difficulty |                                           Solution                                           |                                         GfG Link                                         | Status |
+| :-: | :--------------------------------------- | :--------: | :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :----: |
+| 001 | Second Largest Element                   |  🟢 Easy   |                    [📄 Solution](DAY%20001/Second%20Largest%20Element.py)                    |         [🔗 Problem](https://www.geeksforgeeks.org/problems/second-largest3735)          |   ✅   |
+| 002 | Move All Zeroes to End                   |  🟢 Easy   |                  [📄 Solution](Day%20002/Move%20All%20Zeroes%20to%20End.py)                  | [🔗 Problem](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751) |   ✅   |
+| 003 | Reverse an Array                         |  🟢 Easy   |                       [📄 Solution](Day%20003/reverse%20an%20array.py)                       |          [🔗 Problem](https://www.geeksforgeeks.org/problems/reverse-an-array)           |   ✅   |
+| 004 | Rotate Array                             | 🟡 Medium  |                          [📄 Solution](Day%20004/Rotate%20Array.py)                          |     [🔗 Problem](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements)      |   ✅   |
+| 005 | Next Permutation                         | 🟡 Medium  |                        [📄 Solution](Day%20005/Next%20Permutation.py)                        |        [🔗 Problem](https://www.geeksforgeeks.org/problems/next-permutation5226)         |   ✅   |
+| 006 | Majority Element (>n/3)                  | 🟡 Medium  |   [📄 Solution](Day%20006/Majority%20Element%20-%20More%20Than%20n%20divided%20by%203.py)    |            [🔗 Problem](https://www.geeksforgeeks.org/problems/majority-vote)            |   ✅   |
+| 007 | Stock Buy and Sell                       | 🟡 Medium  |                     [📄 Solution](Day%20007/Stock%20Buy%20and%20Sell.py)                     |         [🔗 Problem](https://www.geeksforgeeks.org/problems/stock-buy-and-sell)          |   ✅   |
+| 008 | Stock Buy and Sell (Max One Transaction) |  🟢 Easy   | [📄 Solution](Day%20008/Stock%20Buy%20and%20Sell%20–%20Max%20one%20Transaction%20Allowed.py) |              [🔗 Problem](https://www.geeksforgeeks.org/problems/buy-stock)              |   ✅   |
+| 009 | Kadane's Algorithm                       | 🟡 Medium  |                       [📄 Solution](Day%20009/Kadane's%20Algorithm.py)                       |          [🔗 Problem](https://www.geeksforgeeks.org/problems/kadanes-algorithm)          |   ✅   |
 
 </div>
 
