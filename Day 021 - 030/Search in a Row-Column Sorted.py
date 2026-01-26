@@ -15,16 +15,18 @@
 # Explanation: 3 is present in the matrix.
 
 #User function Template for python3
+
+
 class Solution:
-	def matSearch(self, mat, x):
+    def matSearch(self, mat, x):
         n = len(mat)
         m = len(mat[0])
         
         i = 0
         j = m - 1
         
-        while i < n and j >= 0:
-            if mat[i][j] == x:
+        while i < n and j >= 0:  
+            if mat[i][j] == x: 
                 return True
             elif mat[i][j] > x:
                 j -= 1
