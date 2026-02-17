@@ -52,8 +52,8 @@ The focus is on completing 160 quality problems to master Data Structures and Al
 <h2 align="center">📊 Progress Tracker</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-32_/_160-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Progress"/>
-  <img src="https://img.shields.io/badge/Progress-20.0%25-blue?style=for-the-badge" alt="Percentage"/>
+  <img src="https://img.shields.io/badge/Total_Solved-47_/_160-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-29.4%25-blue?style=for-the-badge" alt="Percentage"/>
 </p>
 
 <div align="center">
@@ -92,6 +92,21 @@ The focus is on completing 160 quality problems to master Data Structures and Al
 | 030 | Set Matrix Zeros                         | 🟡 Medium  |                       [📄 Solution](Day%20021%20-%20030/Set%20Matrix%20Zeros.py)                        |         [🔗 Problem](https://www.geeksforgeeks.org/problems/set-matrix-zeroes)         |   ✅   |
 | 031 | Two Sum - Pair with Given Sum            | 🟢 Easy    |              [📄 Solution](Day%20031%20-%20040/Two%20Sum%20-%20Pair%20with%20Given%20Sum.py)               |    [🔗 Problem](https://www.geeksforgeeks.org/problems/key-pair5616)    |   ✅   |
 | 032 | Intersection of Two Arrays               | 🟢 Easy    |    [📄 Solution](Day%20031%20-%20040/Intersection%20of%20Two%20arrays%20with%20Duplicate%20Elements.py)     |  [🔗 Problem](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements)  |   ✅   |
+| 033 | Union of Arrays with Duplicates          | 🟢 Easy    |           [📄 Solution](Day%20031%20-%20040/Union%20of%20Arrays%20with%20Duplicates.py)            |     [🔗 Problem](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538)     |   ✅   |
+| 034 | Count Pairs with Given Sum               | 🟢 Easy    |              [📄 Solution](Day%20031%20-%20040/Count%20pairs%20with%20given%20sum.py)               |    [🔗 Problem](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022)    |   ✅   |
+| 035 | Subarrays with Sum K                     | 🟡 Medium  |                    [📄 Solution](Day%20031%20-%20040/Subarrays%20with%20sum%20K.py)                     |       [🔗 Problem](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k)       |   ✅   |
+| 036 | Largest Subarray of 0's and 1's          | 🟡 Medium  |            [📄 Solution](Day%20031%20-%20040/Largest%20subarray%20of%200's%20and%201's.py)             |   [🔗 Problem](https://www.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s)   |   ✅   |
+| 037 | Product Array Puzzle                     | 🟢 Easy    |                  [📄 Solution](Day%20031%20-%20040/Product%20array%20puzzle.py)                   |     [🔗 Problem](https://www.geeksforgeeks.org/problems/product-array-puzzle4525)     |   ✅   |
+| 038 | Equilibrium Point                        | 🟢 Easy    |                    [📄 Solution](Day%20031%20-%20040/Equilibrium%20Point.py)                     |       [🔗 Problem](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620)       |   ✅   |
+| 039 | Count the Number of Possible Triangles   | 🟡 Medium  |          [📄 Solution](Day%20031%20-%20040/Count%20the%20number%20of%20possible%20triangles.py)           | [🔗 Problem](https://www.geeksforgeeks.org/problems/count-possible-triangles-1587115620) |   ✅   |
+| 040 | Permutations of a String                 | 🟡 Medium  |                 [📄 Solution](Day%20031%20-%20040/Permutations%20of%20a%20String.py)                  |      [🔗 Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041)      |   ✅   |
+| 041 | Parenthesis Checker                      | 🟢 Easy    |                   [📄 Solution](Day%20041%20-%20050/Parenthesis%20Checker.py)                    |      [🔗 Problem](https://www.geeksforgeeks.org/problems/parenthesis-checker2744)      |   ✅   |
+| 042 | Palindrome Sentence                      | 🟢 Easy    |                   [📄 Solution](Day%20041%20-%20050/Palindrome%20Sentence.py)                    |      [🔗 Problem](https://www.geeksforgeeks.org/problems/palindrome-sentence)      |   ✅   |
+| 043 | Fizz Buzz                                | 🟢 Easy    |                        [📄 Solution](Day%20041%20-%20050/Fizz%20Buzz.py)                         |         [🔗 Problem](https://www.geeksforgeeks.org/problems/fizz-buzz)         |   ✅   |
+| 044 | Repetitive Addition Of Digits            | 🟢 Easy    |             [📄 Solution](Day%20041%20-%20050/Repetitive%20Addition%20Of%20Digits.py)              |  [🔗 Problem](https://www.geeksforgeeks.org/problems/repetitive-addition-of-digits)  |   ✅   |
+| 045 | Square Root                              | 🟢 Easy    |                       [📄 Solution](Day%20041%20-%20050/Square%20Root.py)                        |        [🔗 Problem](https://www.geeksforgeeks.org/problems/square-root)        |   ✅   |
+| 046 | Implement Pow                            | 🟡 Medium  |                      [📄 Solution](Day%20041%20-%20050/Implement%20Pow.py)                       |       [🔗 Problem](https://www.geeksforgeeks.org/problems/implement-pow)       |   ✅   |
+| 047 | Implement Lower Bound                    | 🟢 Easy    |                  [📄 Solution](Day%20041%20-%20050/Implement%20Lower%20Bound.py)                   |     [🔗 Problem](https://www.geeksforgeeks.org/problems/implement-lower-bound)     |   ✅   |
 
 </div>
 
