@@ -38,6 +38,20 @@ The focus is on completing 160 quality problems to master Data Structures and Al
 
 ---
 
+<h2 align="center">📢 Status Update</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⏸️_Status-Temporarily_Paused-FFA500?style=for-the-badge" alt="Status"/>
+</p>
+
+<p align="center">
+🔔 <b>Taking a Short Break</b> — The challenge is temporarily paused due to other commitments.<br/>
+⏳ <b>Will Resume Soon</b> — Progress will continue shortly. Stay tuned!<br/>
+💪 <b>51/160 Problems Completed</b> — Strong progress so far, more to come!
+</p>
+
+---
+
 <h2 align="center">🎯 Why This Challenge?</h2>
 
 <p align="center">
@@ -52,8 +66,8 @@ The focus is on completing 160 quality problems to master Data Structures and Al
 <h2 align="center">📊 Progress Tracker</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-47_/_160-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Progress"/>
-  <img src="https://img.shields.io/badge/Progress-29.4%25-blue?style=for-the-badge" alt="Percentage"/>
+  <img src="https://img.shields.io/badge/Total_Solved-51_/_160-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Progress-31.9%25-blue?style=for-the-badge" alt="Percentage"/>
 </p>
 
 <div align="center">
@@ -107,6 +121,10 @@ The focus is on completing 160 quality problems to master Data Structures and Al
 | 045 | Square Root                              | 🟢 Easy    |                       [📄 Solution](Day%20041%20-%20050/Square%20Root.py)                        |        [🔗 Problem](https://www.geeksforgeeks.org/problems/square-root)        |   ✅   |
 | 046 | Implement Pow                            | 🟡 Medium  |                      [📄 Solution](Day%20041%20-%20050/Implement%20Pow.py)                       |       [🔗 Problem](https://www.geeksforgeeks.org/problems/implement-pow)       |   ✅   |
 | 047 | Implement Lower Bound                    | 🟢 Easy    |                  [📄 Solution](Day%20041%20-%20050/Implement%20Lower%20Bound.py)                   |     [🔗 Problem](https://www.geeksforgeeks.org/problems/implement-lower-bound)     |   ✅   |
+| 048 | Indexes of Subarray Sum                  | 🟡 Medium  |                [📄 Solution](Day%20041%20-%20050/Indexes%20of%20Subarray%20Sum.py)                 |   [🔗 Problem](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621)   |   ✅   |
+| 049 | Meeting Rooms                            | 🟢 Easy    |                      [📄 Solution](Day%20041%20-%20050/Meeting%20Rooms.py)                       |        [🔗 Problem](https://www.geeksforgeeks.org/problems/attend-all-meetings)        |   ✅   |
+| 050 | Roman to Integer                         | 🟢 Easy    |                     [📄 Solution](Day%20041%20-%20050/Roman%20to%20Integer.py)                      |       [🔗 Problem](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201)       |   ✅   |
+| 051 | Generate Matrix with Row & Column Sum    | 🟡 Medium  | [📄 Solution](Day%20051%20-%20060/Generate%20a%20matrix%20with%20each%20row%20and%20column%20of%20given%20sum.py) | [🔗 Problem](https://www.geeksforgeeks.org/problems/generate-a-matrix-with-each-row-and-column-of-given-sum) |   ✅   |
 
 </div>
 
